@@ -1,0 +1,7 @@
+#Ignore List
+Frontend/Markup/node_modules/
+Frontend/Markup/bower_components/
+Frontend/Markup/.sass-cache/
+Frontend/Creative/
+Frontend/Markup/public/ui/stylesheet/uicreep.css
+Frontend/Assets/
